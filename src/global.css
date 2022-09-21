@@ -1,0 +1,270 @@
+.VisaBox {
+    padding: 60px 15px 60px;
+}
+.mcent2 {
+    width: 1200px;
+    margin: 0 auto;
+}
+.title {
+    margin-bottom: 20px;
+}
+.title h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #778aff;
+    font-size: 36px;
+    font-weight: normal;
+}
+.title h2 span {
+    background-color: #fff;
+    padding: 0 30px;
+}
+.title h3 {
+    width: 580px;
+    margin: 0 auto;
+    border-bottom: 1px solid #8c8c8c;
+    margin-bottom: 30px;
+    margin-top: -36px;
+}
+.title h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+    margin-top: -10px;
+    color: #6a6a6a;
+}
+.VisaBox .visaStep {
+    text-align: center;
+    margin-bottom: 30px;
+}
+.VisaBox .visaInfo-box {
+    margin-bottom: 50px;
+}
+.sTitle {
+    text-align: center;
+}
+.titleBox {
+    width: 30%;
+    background-color: #60c0ec;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px 30px;
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.dotLeft {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    top: 40%;
+}
+.dotRight {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    top: 40%;
+    right: 30px;
+}
+element.style {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}
+.VisaBox .visaBanner {
+    width: 30%;
+    float: left;
+}
+
+a {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
+.VisaBox .visaBanner img {
+    width: 100%;
+}
+.VisaBox .visaList {
+    width: 70%;
+    float: left;
+    font-size: 14px;
+}
+.VisaBox .visaList a {
+    color: #000;
+}
+.visaStateBox {
+    width: 30.5%;
+    float: left;
+    box-shadow: 0 0 8px #b7b7b7;
+    height: 83px;
+    border-radius: 50px;
+    margin-left: 20px;
+    margin-bottom: 22px;
+    position: relative;
+}
+.visaCountryIco {
+    background: url(https://ps.visayi.com/Country/8203.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaStateBox .visaInfo {
+    position: absolute;
+    top: 18px;
+    right: 10px;
+    width: 160px;
+}
+.visaStateBox .visaInfo .CountryName {
+    font-size: 16px;
+    margin-bottom: 3px;
+
+}
+.rupees {
+    color: #ff5a00;
+    margin-right: 10px;
+}
+.visaCountryIco1 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco1 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco2 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco2 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco3 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco3 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco4 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco4 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco5 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco5 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco6 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco6 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco7 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco7 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.visaCountryIco8 {
+    background: url(https://ps.visayi.com/Country/8301.png) center no-repeat;
+    background-size: cover;
+}
+.visaStateBox .visaCountryIco8 {
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    position: absolute;
+    top: 11px;
+    left: 15px;
+    box-shadow: 0 0 8px #ddd;
+}
+.clearfix:before, .clearfix:after {
+    content: "";
+    display: table;
+}
+.clearfix:after {
+    clear: both;
+}
+
+.HomeButton {
+    text-align: center;
+    margin-top: 30px;
+}
+.HomeButton a {
+    padding: 10px 40px;
+    margin: 0 10px;
+    border: 1px solid #333;
+    border-radius: 50px;
+    color: #333;
+    font-size: 16px;
+}
+.headline1 {
+    text-align: center;
+    font-size: 18px;
+    color: #555;
+    margin-bottom: 30px;
+}

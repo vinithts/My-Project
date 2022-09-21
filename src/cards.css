@@ -1,0 +1,35 @@
+.bg-dark{
+    margin: 40px;
+   
+}
+.HotSchool{
+   
+    background-color: rgb(238, 247, 247);
+}
+/* .mcent {
+    width: 1200px;
+    margin: 0 auto;
+} */
+.card:hover{
+transform: scale(1.05);
+box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+
+}
+.HomeButton {
+    text-align: center;
+    margin-top: 20px;
+   
+}
+.HomeButton a {
+    padding: 20px 40px;
+    margin: 0 10px;
+    border: 1px solid #333;
+    border-radius: 30px;
+   background-color: rgb(109, 175, 236);
+    font-size: 16px;
+}
+.HomeButton a:hover{
+    background-color:rgb(112, 170, 151);
+    transform: scale(1.05);
+}
+

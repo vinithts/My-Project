@@ -1,0 +1,486 @@
+.immigrantItem {
+    padding: 60px 15px 70px;
+     background: #eaeaea url(https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg?size=626&ext=jpg&ga=GA1.2.12202534.1657903816) center no-repeat; 
+    background-size: cover;
+}
+.immigrantItem {
+    padding: 60px 15px 70px;
+    background: #eaeaea url(https://img.freepik.com/free-photo/perspective-exterior-nobody-empty-box_1258-260.jpg?size=626&ext=jpg&ga=GA1.2.12202534.1657903816) center no-repeat;
+    background-size: cover;
+}
+.mcent3 {
+    width: 1200px;
+    margin: 0 auto;
+}
+.title {
+    margin-bottom: 20px;
+}
+.title h2 {
+    text-align: center;
+    margin-bottom: 10px;
+    color: #778aff;
+    font-size: 36px;
+    font-weight: normal;
+}
+.title h2 span {
+    background-color: rgb(185, 219, 230);
+    padding: 0 30px;
+    border-radius: 30px;
+}
+.title h3 {
+    width: 580px;
+    margin: 0 auto;
+    border-bottom: 1px solid #8c8c8c;
+    margin-bottom: 30px;
+    margin-top: -36px;
+}
+.title h4 {
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: center;
+    margin-top: -10px;
+    color: #6a6a6a;
+}
+.sTitle {
+    text-align: center;
+}
+.titleBox {
+    width: 350px;
+    background-color: #68e9e9;
+    border-radius: 30px;
+    margin: 0 auto;
+    padding: 10px 30px;
+    position: relative;
+    font-size: 24px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.dotLeft {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    top: 40%;
+}
+.dotRight {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    background-color: #fff;
+    border-radius: 100%;
+    top: 40%;
+    right: 30px;
+}
+.immigrantItem .productInfo {
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-bottom: 40px;
+}
+.immigrantItem .projectBox {
+    width: 20%;
+    float: left;
+}
+.immigrantItem .projectBox .pBox {
+    padding: 0 10px;
+}
+.innerBox:hover{
+    transform: scale(1.10);
+    box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+    }
+ .innerBox {
+    background: url(https://img.freepik.com/free-vector/delivery-service-with-mask-concept_23-2148516880.jpg?size=338&ext=jpg&ga=GA1.2.12202534.1657903816) no-repeat;
+} 
+.immigrantItem .projectBox .pBox .innerBox {
+    height: 320px;
+    position: relative;
+    overflow: hidden;
+}.innerBox1:hover{
+    transform: scale(1.10);
+    box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+    }
+.innerBox1 {
+    background: url(https://img.freepik.com/free-vector/worker-professions-isometric-composition-with-food-delivery-man-illustration_1284-27259.jpg?size=338&ext=jpg&ga=GA1.2.12202534.1657903816) no-repeat;
+} 
+.immigrantItem .projectBox .pBox .innerBox1 {
+    height: 320px;
+    position: relative;
+    overflow: hidden;
+}
+.innerBox2:hover{
+    transform: scale(1.10);
+    box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+    }
+.innerBox2 {
+    background: url(https://img.freepik.com/free-vector/man-courier-come-scooter-with-box-parcel_81522-1597.jpg?size=338&ext=jpg&ga=GA1.2.12202534.1657903816) no-repeat;
+} 
+.immigrantItem .projectBox .pBox .innerBox2 {
+    height: 320px;
+    position: relative;
+    overflow: hidden;
+}
+.innerBox3:hover{
+    transform: scale(1.10);
+    box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+    }
+.innerBox3 {
+    background: url(https://img.freepik.com/free-vector/food-truck-background_23-2147760022.jpg?size=338&ext=jpg&ga=GA1.2.12202534.1657903816) no-repeat;
+} 
+.immigrantItem .projectBox .pBox .innerBox3 {
+    height: 320px;
+    position: relative;
+    overflow: hidden;
+}
+.innerBox4:hover{
+    transform: scale(1.10);
+    box-shadow: 0 0 40px -10px rgb(122, 122, 136) ;
+    }
+.innerBox4 {
+    background: url(https://img.freepik.com/free-vector/illustrated-delivery-service-with-mask-design_23-2148506826.jpg?size=338&ext=jpg&ga=GA1.2.12202534.1657903816) no-repeat;
+} 
+.immigrantItem .projectBox .pBox .innerBox4 {
+    height: 320px;
+    position: relative;
+    overflow: hidden;
+}
+
+.immigrantItem .projectBox .pBox .innerBox .TextBox {
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(74, 101, 255,1),rgba(115,133,245,0.2),rgba(115,133,245,0));
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox {
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(74, 101, 255,1),rgba(115,133,245,0.2),rgba(115,133,245,0));
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox {
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(74, 101, 255,1),rgba(115,133,245,0.2),rgba(115,133,245,0));
+}
+.immigrantItem .projectBox .pBox .innerBox3 .TextBox {
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(74, 101, 255,1),rgba(115,133,245,0.2),rgba(115,133,245,0));
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox {
+    position: relative;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top,rgba(74, 101, 255,1),rgba(115,133,245,0.2),rgba(115,133,245,0));
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .TextBoxInfo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    bottom: -238px;
+    transition: all .9s ease;
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox .TextBoxInfo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    bottom: -238px;
+    transition: all .9s ease;
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox .TextBoxInfo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    bottom: -238px;
+    transition: all .9s ease;
+}
+.immigrantItem .projectBox .pBox .innerBox3 .TextBox .TextBoxInfo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    bottom: -238px;
+    transition: all .9s ease;
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox .TextBoxInfo {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    bottom: -238px;
+    transition: all .9s ease;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .TextBoxInfo .Tbox {
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox .TextBoxInfo .Tbox {
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox .TextBoxInfo .Tbox {
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.immigrantItem .projectBox .pBox .innerBox3.TextBox .TextBoxInfo .Tbox {
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox .TextBoxInfo .Tbox {
+    padding: 20px;
+    color: #fff;
+    font-size: 20px;
+    line-height: 26px;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .TextBoxInfo .Tbox span {
+    font-size: 14px;
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox .TextBoxInfo .Tbox span {
+    font-size: 14px;
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox .TextBoxInfo .Tbox span {
+    font-size: 14px;
+}
+.immigrantItem .projectBox .pBox .innerBox3 .TextBox .TextBoxInfo .Tbox span {
+    font-size: 14px;
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox .TextBoxInfo .Tbox span {
+    font-size: 14px;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .TextBoxInfo .Tbox p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    text-align: justify;
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox .TextBoxInfo .Tbox p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    text-align: justify;
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox .TextBoxInfo .Tbox p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    text-align: justify;
+}
+.immigrantItem .projectBox .pBox .innerBox3 .TextBox .TextBoxInfo .Tbox p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    text-align: justify;
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox .TextBoxInfo .Tbox p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 8px;
+    text-align: justify;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .button {
+    width: 80px;
+    bottom: 15px;
+    left: 25%;
+    position: absolute;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox1 .button {
+    width: 80px;
+    bottom: 15px;
+    left: 25%;
+    position: absolute;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox2 .button {
+    width: 80px;
+    bottom: 15px;
+    left: 25%;
+    position: absolute;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox3 .button {
+    width: 80px;
+    bottom: 15px;
+    left: 25%;
+    position: absolute;
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox4 .button {
+    width: 80px;
+    bottom: 15px;
+    left: 25%;
+    position: absolute;
+}
+.button {
+    cursor: pointer;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    font-weight: bold;
+    color: #fff;
+    padding: 0.5em 1em;
+    border-radius: 100px;
+    font: inherit;
+    background: linear-gradient(135deg, #1a9be6, #1a57e6);
+    border: none;
+    position: relative;
+    transform-style: preserve-3d;
+    transition: 300ms ease;
+    outline: none;
+}
+.button:before {
+    transition: 300ms ease;
+    position: absolute;
+    display: block;
+    content: '';
+    transform: translateZ(-40px);
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    height: calc(100% - 20px);
+    width: calc(100% - 20px);
+    border-radius: 100px;
+    left: 10px;
+    top: 16px;
+    box-shadow: 0 0 10px 10px rgb(26 87 230 / 25%);
+    background-color: rgba(26, 87, 230, 0.25);
+}
+.immigrantItem .projectBox .pBox .innerBox .TextBox .button a {
+    color: #fff;
+}
+.immigrantItem .projectBox .pBox .innerBox1 .TextBox .button a {
+    color: #fff;
+}
+.immigrantItem .projectBox .pBox .innerBox2 .TextBox .button a {
+    color: #fff;
+}
+.immigrantItem .projectBox .pBox .innerBox3 .TextBox .button a {
+    color: #fff;
+}
+.immigrantItem .projectBox .pBox .innerBox4 .TextBox .button a {
+    color: #fff;
+}
+.immigrantItem .GuoJbox {
+    margin-bottom: 60px;
+}
+.immigrantItem .GuoJbox .guojia {
+    width: 115px;
+    float: left;
+    margin-right: 40px;
+}
+a {
+    color: #333;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.pict1 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9w3KWSMx2_aXiDfHbBB6Jbg6SvTOnfaRIow&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict2 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5fX1wR8J0MVVDyp1dujfWklmCvYfO0236BQ&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict3 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn2azoj6LpmEnF_dA-0F95tplZmvLaxqSZcg&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict4 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZxpPHnkI-NXJVU5Bwdg3tXlTSjp-JU1iATg&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict5 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTuG55JELVOUrH-t8wrVO8k1ID02Tpr9-_Q8g&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict6 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSF6H8zFWAaZBhBazTE0Xv7tq4TbvzIb7_mSA&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+.immigrantItem .GuoJbox .guojia div {
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+}
+.pict7 {
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd8xYPAeObmDTxGIyk68djmKfjIeznt_lWtA&usqp=CAU) no-repeat;
+    background-size: cover;
+}
+
+
+.immigrantItem .GuoJbox .more {
+    width: 115px;
+    float: left;
+}
+.immigrantItem .GuoJbox .more a {
+    color: #fff;
+}
+.immigrantItem .GuoJbox .more .mBox {
+    font-size: 18px;
+    width: 115px;
+    height: 115px;
+    border-radius: 100%;
+    box-shadow: 0 0 5px #c8c8c8;
+    background-color: #778aff;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.HomeButton {
+    text-align: center;
+    margin-top: 30px;
+}
+.HomeButton a {
+    padding: 10px 40px;
+    margin: 0 10px;
+    border: 1px solid #333;
+    border-radius: 50px;
+    color: #333;
+    font-size: 16px;
+}

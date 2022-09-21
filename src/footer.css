@@ -1,0 +1,9 @@
+.bottomBanner {
+    position: fixed;
+    z-index: 99999;
+    bottom: 0;
+}
+img, input, textarea {
+    border: none;
+    outline: none;
+}
